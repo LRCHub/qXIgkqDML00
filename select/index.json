@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それでも生きてていいですか",
+  "base_artist": "傘村トータ",
+  "createdAt": "2026-03-08T08:54:43.884588Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それでも生きてていいですか",
+      "artist": "傘村トータ",
+      "has_synced": false,
+      "path": "select/pl_01_それでも生きてていいですか_傘村トータ.txt"
+    }
+  ]
+}
